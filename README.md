@@ -1,4 +1,4 @@
-**4-Week Practical Course: Application Programming with GEN-AI and Python**
+**8-Week Practical Course: Application Programming with GEN-AI and Python**
 
 ---
 
@@ -184,13 +184,12 @@
 - What is Fine-Tuning?: Adapting pre-trained models to specific tasks or domains.
 - Why Fine-Tune?: Improved performance on niche tasks, domain adaptation, style transfer.
 - Full Fine-Tuning vs. Parameter-Efficient Fine-Tuning (PEFT): Concepts, pros & cons.
-- PEFT Methods Overview: LoRA (Low-Rank Adaptation), QLoRA (Quantized LoRA).
 - Data Preparation: Creating instruction datasets (prompt/response pairs).
 
 ### **Day 5: Fine-Tuning in Action with Unsloth & Kaggle/Colab**
 - Unsloth Overview: Library for significantly faster LoRA/QLoRA fine-tuning.
 - Setting up Environment: Using Kaggle or Google Colab GPUs.
-- Data Formatting: Preparing a dataset for Unsloth (e.g., Alpaca format).
+- Data Formatting: Picking a dataset from HuggingFace
 - Fine-tuning Script: Using Unsloth with `transformers` SFTTrainer.
 - Running the fine-tuning job.
 - Basic Inference/Testing the fine-tuned model.
@@ -286,15 +285,7 @@
 - Asynchronous database operations in FastAPI endpoints.
 - **Lab:** Connect a FastAPI application to MongoDB. Implement CRUD operations for a simple resource.
 
-### **Day 3: Application Architecture: Controllers, Services, Repositories**
-- Problems with Monolithic Endpoints: Lack of separation of concerns, testability issues.
-- Layered Architecture Overview: Presentation (API/Controllers), Business Logic (Services), Data Access (Repositories).
-- Implementing Layers in FastAPI: Using Routers for Controllers, separate modules for Services and Repositories.
-- Dependency Injection for decoupling layers.
-- Benefits: Maintainability, testability, scalability.
-- **Lab:** Refactor the MongoDB CRUD application into a layered architecture (Controller -> Service -> Repository).
-
-### **Day 4: Automated Testing with Pytest**
+### **Day 3: Automated Testing with Pytest**
 - Importance of Testing in Enterprise Applications.
 - Testing Pyramid: Unit, Integration, End-to-End tests.
 - Introduction to `pytest`: Writing test functions, assertions, fixtures.
@@ -303,7 +294,7 @@
 - Testing FastAPI Endpoints: Using `TestClient` for simulated HTTP requests.
 - **Lab:** Write unit tests for the Service layer and integration/endpoint tests for the FastAPI application using `pytest` and `TestClient`.
 
-### **Day 5: Containerization with Docker & Basic AWS Deployment**
+### **Day 4: Containerization with Docker & Basic AWS Deployment**
 - Introduction to Docker: Containers vs. VMs, Dockerfile basics.
 - Containerizing a FastAPI Application: Writing a `Dockerfile`, building images.
 - Docker Compose for multi-container setups (e.g., app + database).
@@ -311,4 +302,6 @@
 - Basic Deployment Strategy: Push Docker image to ECR, run container on an EC2 instance (or simple PaaS like App Runner).
 - **Lab:** Create a `Dockerfile` for the FastAPI application, build the image, and optionally run it locally using Docker. Discuss steps for a basic AWS deployment.
 
----
+### **Day 5: Recap and steps for further learning**
+- **Recap:** Briefly review the key concepts covered throughout the week (Python, FastAPI, Databases, Docker, Cloud Basics).
+- **Further Learning Suggestions for AI Engineers:**
