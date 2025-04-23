@@ -38,9 +38,6 @@ https://medium.com/madhukarkumar/a-developers-roadmap-to-getting-started-with-ai
 
 Another developer roadmap https://roadmap.sh/ai-engineer
 
-The super-changing world which is described as in 
-https://buttondown.com/ainews
-
 ## Key Findings on AI Agents Driving Business (Forbes Technology Council, 2025)
 
 *   **Strategic Operators:** AI agents are moving beyond simple assistance (like chatbots) to actively drive automation, strategic decisions, and operational scale in 2025.
@@ -75,4 +72,20 @@ https://buttondown.com/ainews
 | February 28, 2025| OpenAI releases GPT 4.5 ("Chonky Orion")                         |
 | February 25, 2025| Anthropic releases Claude 3.7 Sonnet                           |
 
-*Source: Extracted from [AI News Archive](https://buttondown.com/ainews/archive/)*
+## Key Requirements for an AI Engineer Role (2025)
+
+Based on current industry trends and needs, employers seeking AI Engineers typically look for the following:
+
+*   **Strong Python Proficiency:** Solid understanding of Python fundamentals, data structures, error handling, and experience with relevant libraries (`requests`, `json`, potentially `numpy`).
+*   **API Development & Integration:** Experience building and consuming REST APIs, particularly using frameworks like `FastAPI`.
+*   **Generative AI & LLM Expertise:** Deep understanding of Large Language Models (LLMs), key concepts (tokens, prompts), and hands-on experience with major platforms/APIs (OpenAI, Google Gemini, Anthropic, etc.).
+*   **Prompt Engineering Skills:** Ability to craft effective prompts to guide LLM behavior for various tasks.
+*   **AI Application Development:** Experience building applications that integrate AI models, potentially including UI development (e.g., using `Streamlit`).
+*   **Retrieval-Augmented Generation (RAG):** Knowledge of RAG principles and experience implementing RAG pipelines using tools like `LangChain`, embeddings, and vector databases (e.g., `Chroma`, `Pinecone`) to ground LLMs in specific data.
+*   **Familiarity with Open Source Models & Tools:** Experience with the Hugging Face ecosystem (`transformers`), running models locally (`Ollama`), and understanding fine-tuning concepts.
+*   **Multimodal Experience:** Familiarity with models that handle different data types (text, images, audio), including vision APIs, image generation, STT (Whisper), and TTS.
+*   **AI Agent Development:** Understanding of AI agent concepts (planning, tools), relevant frameworks (`LangChain Agents`, `OpenAI Agents SDK`), and potentially protocols like MCP.
+*   **Software Engineering Best Practices:** Proficiency in standard development workflows, including database integration (SQL/NoSQL like `MongoDB`), testing (`pytest`), and containerization (`Docker`).
+*   **Cloud Platform Knowledge:** Familiarity with major cloud providers (AWS, GCP, Azure) and their AI/ML services.
+*   **Problem-Solving & Business Acumen:** Ability to understand business problems and translate them into effective AI solutions, focusing on delivering value.
+
