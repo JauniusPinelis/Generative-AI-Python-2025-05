@@ -72,6 +72,8 @@ Another developer roadmap https://roadmap.sh/ai-engineer
 | February 28, 2025| OpenAI releases GPT 4.5 ("Chonky Orion")                         |
 | February 25, 2025| Anthropic releases Claude 3.7 Sonnet                           |
 
+*Source: [AI News Archives](https://buttondown.com/ainews/archive/)*
+
 ## Key Requirements for an AI Engineer Role (2025)
 
 Based on current industry trends and needs, employers seeking AI Engineers typically look for the following:

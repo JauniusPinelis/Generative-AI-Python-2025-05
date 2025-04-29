@@ -1,0 +1,11 @@
+1. What is the lecture about.
+2. GEN-AI changes in the last two months, https://news.smol.ai/ intro.
+3. hype of AI.
+4 Where industry is heading to: 
+    - public Chatbots
+    - Custom chatbots
+    - Tool integrations
+    - Agents
+5. Industry starts integrating AI into the processes.
+6. What is an AI engineer, what is required for A engineer.
+7. The structure of the course.
