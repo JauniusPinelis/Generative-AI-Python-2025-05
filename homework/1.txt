@@ -1,0 +1,10 @@
+1. Please get into habit of following gen-ai news.
+Please review website and find some interesting reads on that.
+- https://news.smol.ai/
+
+2. Please use ChatGPT to generate some python code for Fibonachi.
+Paste that code into VSCode editor. Save that code as main.py file.
+Launch the code with 'Python main.py'
+
+
+
