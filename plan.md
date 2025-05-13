@@ -1,17 +1,21 @@
-
-
 ## **Week 1: Python Foundations & Environment Setup**
 
-### Day 1
+### **Day 1**
 
-- About me
-- The plan
-- https://news.smol.ai/
-- GEN-AI engineer
-- Software to install:
-https://code.visualstudio.com/
-https://git-scm.com/downloads/win
+- **About Me**
+- **The Plan**
+- [Smol AI News](https://news.smol.ai/)
+- **GEN-AI Engineer**
+- **Software to Install:**
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Git for Windows](https://git-scm.com/downloads/win)
+- **Model vs Platform**
+- **AI vs GEN-AI**
 
-- Model vs Platform
-- AI vs GEN-AI
+### **Day 2**
+
+- Git
+- Github
+- Basic programming in Python.
+
 
