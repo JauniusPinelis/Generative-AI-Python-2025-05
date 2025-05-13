@@ -1,1 +1,11 @@
 1. Create a Github account.
+2. Create a new repo with Readme.md and .gitignore for Python.
+3. Git clone to your machine.
+4. You copy the code
+from https://github.com/JauniusPinelis/Generative-AI-Python-2025-05/blob/main/samples/python-demo/age_calculator.py
+into your repo, would commit it and push it into remote.
+
+With push there may be some difficulties/issues, use Chatgpt to solve those issues.
+if you get really stuck, its ok we can solve it in the lecture.
+
+5. Please analyse age_calculator, use chatgpt to analyse it and try understanding how it work.
