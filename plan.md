@@ -16,6 +16,7 @@
 
 - Git
 - Github
+- Git through Vscode
 - Basic programming in Python.
 
 
