@@ -1,0 +1,27 @@
+Modify guess_game_extended.py:
+1. Add command 'quit' which would exit the game while playing. Please print "Thank you for playing"
+(you enter that after 'Please enter your guess')
+
+2. Task: Simple Unit Converter
+
+Create a program that asks the user for a distance in kilometers and converts it to miles.
+- 1 mile is approximately 1.60934 kilometers.
+
+Your program should:
+- Ask the user to input a distance in kilometers
+- Convert the input to a number
+- Calculate the equivalent distance in miles
+- Print the result in a user-friendly format (e.g., "X kilometers is Y miles.")
+- Include error handling for invalid input (e.g., if the user enters text instead of a number)
+
+This task will allow practice of:
+- input() for user data
+- print() for displaying information
+- Type conversion (e.g., float())
+- Basic arithmetic operations
+- try-except for error handling
+- Variable assignment
+
+3. Optional for Advanced Students (self-learning task).
+   Investigate library 'Rich' and make prompts more UI friendly.
+
