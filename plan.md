@@ -26,7 +26,7 @@
 some are more suited for translation.
 - Platform provides much more than LLMs
 
-### **Day 2**
+### **Day 3**
 
 - Python Basics
 - Python debugging
@@ -41,5 +41,26 @@ some are more suited for translation.
   - Knowledge cutoff date.
   - Vague recollection of the dataset.
 
+### **Day 4**
+
+- Python practice
+- Python try/catch, While loop
+
+- AI platform concepts:
+  - tools -> 
+    1. Web search
+    2. Python executor
+    3. Image generator
+  
+  - Deep research
+  - File upload
+  - Memory concept
+
+- different models:
+  - 
+
+### **Day 5**
+
+- python dictionary, list (of object)
 
 

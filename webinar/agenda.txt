@@ -9,3 +9,4 @@
 5. Industry starts integrating AI into the processes.
 6. What is an AI engineer, what is required for A engineer.
 7. The structure of the course.
+
