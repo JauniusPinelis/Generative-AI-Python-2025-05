@@ -62,5 +62,13 @@ some are more suited for translation.
 ### **Day 5**
 
 - python dictionary, list (of object)
+- VScode extensions and Github copilot
+- front-end vs back-end
+- API, Backend system, Technology as a service.
 
+## **Week 2: Python Foundations and Openai Usage**
 
+- LLM Providers.
+- Api-keys and secrets.
+- Python library install.
+- Openai Completions.
