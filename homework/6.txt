@@ -14,3 +14,6 @@ You will practice Openai Python client usage:
 where you can enter a question and AI would give you an answer.
 
 9. Force AI to always answer in Lithuanian language.
+10. If 'exit' command is given, exit the application instead of calling ai.
+
+11. Whole conversation should be taken into context.
