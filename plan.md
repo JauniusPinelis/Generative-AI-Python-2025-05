@@ -68,7 +68,17 @@ some are more suited for translation.
 
 ## **Week 2: Python Foundations and Openai Usage**
 
+### **Day 1**
+
 - LLM Providers.
 - Api-keys and secrets.
 - Python library install.
 - Openai Completions.
+
+### **Day 2**
+
+- Requirements.txt
+- functions
+- Read/write to a file
+
+- System instructions, prompt engineering.

@@ -1,3 +1,23 @@
+Please create me a python homework to practice openai client with dotenv and completions in console.
+
+Homework Examples: 
+--------------------------------
+1. Please get into habit of following gen-ai news.
+Please review website and find some interesting reads on that.
+- https://news.smol.ai/
+
+2. Please use ChatGPT to generate some python code for Fibonachi.
+Paste that code into VSCode editor. Save that code as main.py file.
+Launch the code with 'Python main.py'
+-----------
+In the lecture you have seen a person_database.py
+
+Please write a similar application, 
+which would allow to add todos.
+Todo can have description and a date.
+After each addition it would print all todos.
+----------------
+
 You will practice Openai Python client usage:
 
 1. Please create a public Github repository for this projects.

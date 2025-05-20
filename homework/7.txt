@@ -1,0 +1,12 @@
+Please complete home 6.
+and also implement the advanced
+
+Advanced, optional:
+Write a console application which would translate English text to Lithuanian:
+    - it should read from a input.txt file where English text lays.
+    - if text is more than 200 tokens, then say, the text is too long 
+    and exit the applcication.
+    (Research how calculate tokens)
+    - Write Lithuanian translated text into file lithuanian.txt
+
+
