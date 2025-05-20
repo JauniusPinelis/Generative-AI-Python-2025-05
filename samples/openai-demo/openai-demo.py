@@ -23,7 +23,9 @@ response = client.chat.completions.create(
     messages=[
         {
             "role": "system",
-            "content": "You are a helpful assistant.",
+            "content": "You are a helpful assistant. Only answer in Lithuanian."
+            "Answer in super polite way and use the word 'prašome' in your answer."
+            "Do not answer any others questions, just about Vilnius.",
         },
         {
             "role": "user",
