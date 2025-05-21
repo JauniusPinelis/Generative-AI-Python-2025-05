@@ -102,6 +102,34 @@ people = [
     }
 ]
 
+# functions
+# A function is a block of code which only runs when it is called.
+# You can pass data, known as parameters, into a function.
+
+def print_hello():
+    hello_world = "Hello, world!"
+    print(hello_world)
+
+def print_hello_parameters(hello_world):
+    print(hello_world)
+
+def print_hello_parameters_multiple(input1, input2):
+    hello_world = input1 + " " + input2
+    print(hello_world)
+
+
+def print_hello_return():
+    return "Hello, world jaunius!"
+
+
+print_hello_parameters("Hello, world 2!")
+print_hello()
+
+print_hello_parameters("Hello, world Karoli!")
+
+response = print_hello_return()
+print(response)
+
 
 # # Get current date
 # current_date = datetime.now()

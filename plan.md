@@ -82,3 +82,21 @@ some are more suited for translation.
 - Read/write to a file
 
 - System instructions, prompt engineering.
+
+### **Day 3**
+
+- Functions
+
+- RAG
+- RAG challenges:
+  - Search must work well.
+  - Context is limited.
+  - AI may hallucinate
+  - Infrastructure must be set well: latence( speed) affects performance.
+  - It is hard to predict user.
+  - Data may have conflict, unnecessary information.
+  - Chatbot must be protected against misuse.
+  - Information gets outdated.
+  - How to TEST that chatbot works well.
+  - Very often data is in words, pdf's and even images.
+  Extracting data from these documents is tough.
