@@ -100,3 +100,10 @@ some are more suited for translation.
   - How to TEST that chatbot works well.
   - Very often data is in words, pdf's and even images.
   Extracting data from these documents is tough.
+
+### **Day 4**
+
+  - Python class
+  - Python practice basics.
+
+  - RAG evaluation

@@ -1,0 +1,23 @@
+-- 
+Create an AI application which would read information from file and would answer a question about Birzai.
+
+1. Load data as string from birzai.txt (u can change to your hometown)
+2. Setup openai client.
+3. Make a completion with openai client and pass the question and context in the completion.
+4. Print the answer.
+
+
+
+-- Advanced, Optional
+
+Please create a console application which would read information from sample-table.pdf
+and would answer questions about this document.
+
+1. Parse the information from pdf document.
+2. Load it in memory.
+3. There is not that much information in here, u dont need RAG, just pass it all to the context.
+4. The AI then should be able to do the analysis.
+
+Do not expect here quality, u will struggle with tables here.
+
+
