@@ -1,0 +1,2 @@
+Review https://blog.futuresmart.ai/master-rag-with-langchain-a-practical-guide
+and try adding remaining commands to perform RAG.
