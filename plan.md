@@ -107,3 +107,9 @@ some are more suited for translation.
   - Python practice basics.
 
   - RAG evaluation
+
+### **Day 5**
+  - Search is not easy
+  - Embeddings
+  - Vector databases
+  - Similiarity search

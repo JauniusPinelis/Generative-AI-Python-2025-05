@@ -130,6 +130,32 @@ print_hello_parameters("Hello, world Karoli!")
 response = print_hello_return()
 print(response)
 
+# classes
+
+# A class is a blueprint for creating objects.
+# Classes encapsulate data for the object.
+class Person:
+    # constructor
+    # The __init__ method is called when an object is created from a class.
+    def __init__(self, name, age, city):
+        self.name = name
+        self.age = age
+        self.city = city
+
+    def greet(self):
+        print(f"Hello, my name is {self.name}.")
+
+# Creating an object of the Person class
+person1 = Person("John", 30, "New York")
+person2 = Person("Jane", 25, "Los Angeles")
+
+# Accessing object properties
+print("Person 1 Name:", person1.name)
+print("Person 2 Age:", person2.age)
+
+# Accessing object methods
+person1.greet()
+
 
 # # Get current date
 # current_date = datetime.now()
