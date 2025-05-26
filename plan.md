@@ -113,3 +113,12 @@ some are more suited for translation.
   - Embeddings
   - Vector databases
   - Similiarity search
+
+## **Week 3: 
+
+### Day 1:
+  - Langchain
+  - RAG
+  - Lots of debugging.
+
+  - genai Ethic and Censorship.
