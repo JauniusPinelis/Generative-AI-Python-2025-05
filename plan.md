@@ -122,3 +122,9 @@ some are more suited for translation.
   - Lots of debugging.
 
   - genai Ethic and Censorship.
+
+### Day 2:
+
+  - RAG challenges in practice.
+
+  - virtual environment, uv
