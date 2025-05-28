@@ -1,0 +1,9 @@
+In this lecture you have seen an example of Vibe coding.
+Please implement RAG pipeline as before.
+
+1. Create and clone git repo.
+2. Init project with UV.
+3. Create a simple RAG by using Agents in VSCode (or download Cursor)
+
+-- Optional advanced.
+4. Replace OpenAI with Google AI Studio. Use Agent mode to apply the changes.

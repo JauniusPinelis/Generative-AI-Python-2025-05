@@ -128,3 +128,11 @@ some are more suited for translation.
   - RAG challenges in practice.
 
   - virtual environment, uv
+
+### Day 3:
+
+  - Langchain practice
+  - Cursor, Vibe coding
+
+  
+  - Licenses of models/open sources.
