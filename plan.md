@@ -134,5 +134,15 @@ some are more suited for translation.
   - Langchain practice
   - Cursor, Vibe coding
 
-  
+### Day 4:
+  - Challenges of vibe coding:
+    - Hallucinations
+    - Specialists dont improve by using AI
+    - AI tends to add unnecessary code/trash.
+    - Quick AI gains, require major refactor later on.
+
+  - Framework: Haystack vs Langchain.
   - Licenses of models/open sources.
+
+
+
