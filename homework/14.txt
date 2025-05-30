@@ -1,0 +1,23 @@
+Advanced Optional.
+
+Have a console app where you have 3 RAG experts available:
+1. RAG chatbot about Birzai
+2. RAG chatbot about Vilnius.
+3. RAG chatbot about Plunge.
+
+you can use langchain for this, with search, but it not required.
+
+Just copy information from Wikipedia.
+
+Create a console application which would answer question about Lithuanian cities:
+When initial a use ask a question about some city, 
+use structure mode to extract the city name of the question
+and the route to appropriate city expert.
+
+If the city name is some other it should say "Sorry i dont have information about this city"
+
+Note: Pydantic also support literal in Python.
+
+
+
+
