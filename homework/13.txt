@@ -4,6 +4,10 @@
 Create a Python script that accepts a user's question, determines if it's in Lithuanian language, 
 and if so, provides an answer to the question using an OpenAI language model.
 
+## Technical requirements
+- use UV to initialise and store dependencies.
+- Store the code in the github.
+
 ## Reference Example
 See the example of using structured/JSON response in Python OpenAI at:
 `samples\json-mode\json_mode_applied.py`

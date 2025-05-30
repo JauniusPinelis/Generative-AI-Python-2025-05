@@ -144,5 +144,14 @@ some are more suited for translation.
   - Framework: Haystack vs Langchain.
   - Licenses of models/open sources.
 
+### Day 5:
+
+  - Google AI Studio
+  - Google API Usage
+
+  - Tokenizer
+  - REST Api.
+  - Fastapi
+
 
 
