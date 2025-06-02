@@ -1,0 +1,13 @@
+Today you will do some individual learning on function calling.
+
+1. Please review what are function in Python if you are not familar yet.
+
+A great short tutorial is here:
+https://www.w3schools.com/python/python_functions.asp
+
+2. Try read and understand function calling as in:
+https://platform.openai.com/docs/guides/function-calling?api-mode=chat
+
+Answer yourself some questions:
+1. What is function calling?
+2. What does it give to GEN-AI
