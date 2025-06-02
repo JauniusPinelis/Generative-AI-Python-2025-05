@@ -10,4 +10,9 @@ https://platform.openai.com/docs/guides/function-calling?api-mode=chat
 
 Answer yourself some questions:
 1. What is function calling?
-2. What does it give to GEN-AI
+2. What does it give to LLM?
+3. Why function calling/(tools) is a very hot topic right now?
+4. Why it is important to implement for business use cases?
+
+3. Try to implement a 'get weather' script as per 'function callings steps'
+in  https://platform.openai.com/docs/guides/function-calling?api-mode=chat#function-calling-steps
