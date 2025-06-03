@@ -1,0 +1,38 @@
+Please follow the tutorial in 
+https://platform.openai.com/docs/guides/function-calling?api-mode=chat&lang=python
+
+1. Copy the code and get the code running.
+2. Change the function from get_weather to get_birzai_info
+3. You will need to change the url to Birzai wiki page.
+
+Sample code is here:
+
+def get_birzai_wiki():
+    response = requests.get(
+        "https://en.wikipedia.org/w/api.php",
+        params={
+            "action": "query",
+            "format": "json",
+            "prop": "extracts",
+            "exintro": True,
+            "explaintext": True,
+            "titles": "Biržai"
+        }
+    )
+    data = response.json()
+    page = next(iter(data["query"]["pages"].values()))
+    return page["extract"]
+
+4. Update the instruction to know when to use get_birzai_info
+
+
+
+
+Optional - advanced.
+
+You have memgpt code in:
+samples\functional-calling\mem_gpt.py
+
+Copy this code to your repository and enhance it with new functionality:
+    1. Add new tool search_web (u can use duckduckgo)
+    2. Update the chatbot to search the web if it does not have information in memory.
