@@ -1,0 +1,26 @@
+Optional, advanced:
+
+You have completed:
+
+    You have memgpt code in:
+    samples\functional-calling\mem_gpt.py
+
+    Copy this code to your repository and enhance it with new functionality:
+        1. Add new tool search_web (u can use duckduckgo)
+        2. Update the chatbot to search the web if it does not have information in memory.
+
+I want you to make the following changes:
+1. Investigate Openai AI Agent SDK:
+https://openai.github.io/openai-agents-python/
+Refactor your code by using Openai ai agent sdk.
+
+2. Make the following feature: When the search returns information, 
+i want to an agent to review if there is enough information to answer the question.
+If there is not enough information, try again with a different query.
+
+Scenario is something like this:
+I ask a question to a Search Agent. Search agent gives me information form search.
+Before returning the information to the user, the 'Review agent' checks if there is enough information to answer the question.
+If there is not enough information, search happens again with a different query.
+
+In practice this is called close to Deep Research you can google it.

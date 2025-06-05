@@ -7,21 +7,14 @@ https://platform.openai.com/docs/guides/function-calling?api-mode=chat&lang=pyth
 
 Sample code is here:
 
-def get_birzai_wiki():
-    response = requests.get(
-        "https://en.wikipedia.org/w/api.php",
-        params={
-            "action": "query",
-            "format": "json",
-            "prop": "extracts",
-            "exintro": True,
-            "explaintext": True,
-            "titles": "Biržai"
-        }
-    )
-    data = response.json()
-    page = next(iter(data["query"]["pages"].values()))
-    return page["extract"]
+    import requests
+    from bs4 import BeautifulSoup
+    
+    response = requests.get("https://lt.wikipedia.org/wiki/Bir%C5%BEai")
+    soup = BeautifulSoup(response.text, 'html.parser')
+    page_text = soup.get_text(strip=True)   # Extract visible text from the page
+    
+    print(page_text)
 
 4. Update the instruction to know when to use get_birzai_info
 

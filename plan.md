@@ -151,7 +151,22 @@ some are more suited for translation.
 
   - Tokenizer
   - REST Api.
-  - Fastapi
+
+## **Week 4:
+
+### Day 1:
+
+  - Individual work on fuction calling.
+
+### Day 2:
+  - function calling basic
+  - function calling in practice
+
+### Day 3:
+  - function calling in practice
+  - Python basics recap/ practice 
+
+
 
 
 
