@@ -166,6 +166,14 @@ some are more suited for translation.
   - function calling in practice
   - Python basics recap/ practice 
 
+### Day 4:
+  - GEN-AI recap.
+  - Multimodal models, Fine-tuning, AI agents, Enterprise system development with Python.
+
+### Day 5:
+  - Multimodal models
+  - Fastpi and REST.
+
 
 
 

@@ -1,0 +1,6 @@
+In the lecture you have seen an example which checks if Lithuanian ID is valid.
+
+1. Run the example shown in the lecture.
+2. Make the improvements if u spot any.
+3. If you make the experiments, please keep the records.
+4. Try different models or providers and see how it goes.
