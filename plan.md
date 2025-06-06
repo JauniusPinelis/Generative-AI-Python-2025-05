@@ -172,7 +172,7 @@ some are more suited for translation.
 
 ### Day 5:
   - Multimodal models
-  - Fastpi and REST.
+  - AI Agents intro.
 
 
 

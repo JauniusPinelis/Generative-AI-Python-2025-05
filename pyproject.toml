@@ -13,6 +13,7 @@ dependencies = [
     "langchain-community>=0.3.24",
     "langchain-google-genai>=2.1.5",
     "openai>=1.83.0",
+    "openai-agents>=0.0.17",
     "pydantic>=2.11.5",
     "python-dotenv>=1.1.0",
     "rich>=14.0.0",
