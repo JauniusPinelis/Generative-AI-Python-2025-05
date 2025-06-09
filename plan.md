@@ -174,6 +174,10 @@ some are more suited for translation.
   - Multimodal models
   - AI Agents intro.
 
+## **Week 5:
+  - REST api
+  - Fast-api.
+
 
 
 

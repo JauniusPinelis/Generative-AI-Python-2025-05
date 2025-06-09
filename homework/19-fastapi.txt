@@ -1,0 +1,9 @@
+In the lecture you have an example of fastapi:
+https://fastapi.tiangolo.com/#create-it
+
+Please try creating a Fastapi CRUD system for Todos.
+
+Each todo should have id, name, description, date (what is the type of the date.)
+
+Please have a separate new folder for this.
+

@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.13.4",
+    "fastapi[standard]>=0.115.9",
     "google-genai>=1.17.0",
     "ipykernel>=6.29.5",
     "langchain>=0.3.25",
