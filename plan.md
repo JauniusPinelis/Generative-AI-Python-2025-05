@@ -175,8 +175,16 @@ some are more suited for translation.
   - AI Agents intro.
 
 ## **Week 5:
+
+### Day 1:
   - REST api
   - Fast-api.
+
+### Day 2: 
+  - Status Codes
+  - Adding business logic to API.
+  - AI usage in API.
+  - Debugging
 
 
 
