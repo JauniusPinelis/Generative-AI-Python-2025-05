@@ -1,0 +1,9 @@
+You will create a fastapi application for Bank Account Managament.
+
+1. Create a Github repo for this project.
+2. Create a separate folder for project.
+3. Create a fastapi application where can do CRUD (no need for update).
+4. Demonstrate that u are able to Create, read and Delete the account.
+5. Account should have id, 
+type (which can be either 'business' or 'personal', it can be a string for now)
+person_name and address.
