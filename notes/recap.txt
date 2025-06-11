@@ -1,0 +1,18 @@
+- LLM is just an algorithm with weights. This is launched by LLM inference.
+- Weight and GPU.
+- internet compressed into weights.
+- Pretraining stage
+- The LLMs just mimic text.
+- An example of a pretraining dataset.
+- Base Model
+- Fine-tuning
+- Pre-training is costly on GPU and fine-tuning is way cheaper.
+- The bigger model the better in quality.
+- The model are taught to use tools.
+- Multimodal models
+- The thinking models.
+- LLM OS
+- LLM Security
+
+- Tokenization
+- How prediction is updated

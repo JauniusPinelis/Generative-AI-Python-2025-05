@@ -24,3 +24,7 @@ The product owner has requested additional functionality to be able to create pa
 Optional, advanced
 - Please check if the accounts are valid and the sum is more than 0, if not return 400.
 
+---------------------------------
+
+Ensure your application has persistent storage, 
+the data is written to a file and read from files.
