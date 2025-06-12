@@ -184,8 +184,13 @@ some are more suited for translation.
   - Status Codes
   - Adding business logic to API.
   - AI usage in API.
-  - Debugging
 
+### Day 3: 
+  - Persistant storage
+  - Updated fastapi to use with files.
+
+### Day 4: 
+  - Fine-tuning intro
 
 
 

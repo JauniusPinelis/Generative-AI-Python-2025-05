@@ -4,16 +4,18 @@ You will create a fastapi application for Bank Account Managament.
 2. Create a separate folder for project.
 3. Create a fastapi application where can do CRUD (no need for update).
 4. Demonstrate that u are able to Create, read and Delete the account.
-5. Account should have id, 
-type (which can be either 'business' or 'personal', it can be a string for now)
-person_name and address.
+5. Account should have 
+ - id, 
+ - type (which can be either 'business' or 'personal', it can be a string for now)
+ - person_name
+ - address.
 
 ---------------------------------------------------
 
 The product owner has requested additional functionality to be able to create payments:
 
 1. Payment resource will have:
- - id: str
+ - id: int
  - from_account_id: int (account id from which we are sending from)
  - to_account_id: int (account id from which we are sending to)
  - amount_in_euros: int
@@ -28,3 +30,20 @@ Optional, advanced
 
 Ensure your application has persistent storage, 
 the data is written to a file and read from files.
+
+
+---------------------------------
+
+Please create an endpoint for reporting.
+
+This report should return a list of all transactions in the following format in json:
+  - from_person_name
+  - to_person_name
+  - amount_in_euros
+  - payment
+
+This endpoint should return an array of jsons with the information above.
+The endpoint should be GET /report 
+
+
+
