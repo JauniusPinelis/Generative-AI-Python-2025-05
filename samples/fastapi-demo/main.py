@@ -1,6 +1,7 @@
 # a fastapi system for account managament
 
 import os
+import uvicorn
 from fastapi import FastAPI
 from pydantic import BaseModel
 
@@ -60,4 +61,7 @@ def delete_account(account_id: int):
     accounts[:] = [account for account in accounts if account.id != account_id]
     delete_account_from_file(account_id)
     return {"message": "Account deleted successfully"}
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000)
 

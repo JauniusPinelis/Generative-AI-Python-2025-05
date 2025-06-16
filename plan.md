@@ -192,6 +192,14 @@ some are more suited for translation.
 ### Day 4: 
   - Fine-tuning intro
 
+### Day 5: 
+  - Lecturer absent, practice
+
+## **Week 6:
+
+### Day 1:
+  Fine-tuning in practice
+
 
 
 
