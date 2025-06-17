@@ -21,7 +21,9 @@ def read_accounts_from_file():
     with open("accounts.txt", "r") as file:
         for line in file:
             id, name, surname = line.strip().split(", ")
-            accounts.append(Account(id=int(id), name=name, surname=surname))
+            account = Account(id=int(id), name=name, surname=surname)
+            accounts.append(account)
+        print("hello")
 
     return accounts
 

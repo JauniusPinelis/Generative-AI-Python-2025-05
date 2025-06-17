@@ -1,0 +1,17 @@
+We are entering AI agents and MCP.
+
+Please create an agent using:
+- https://openai.github.io/openai-agents-python/
+- https://openai.github.io/openai-agents-python/mcp/ (agents with mcp)
+- tools taken from https://docs.firecrawl.dev/mcp (ideally use MCP)
+
+- Investigate what is this firecrawl and what it provides.
+
+This agent should have the following workflow:
+- The agent accepts 'a question'
+- Agent is able to extract key phrase or keyword from your question.
+- Then the agent performs the Search using firecrawl (firecrawl_search tool) with your keywords.
+- Agent responds with the nicely formatted answer with the answer with the information form search.
+
+This should be just a python script.
+

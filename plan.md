@@ -200,6 +200,10 @@ some are more suited for translation.
 ### Day 1:
   Fine-tuning in practice
 
+### Day 2:
+  API Recap
+  MCP Intro
+
 
 
 
