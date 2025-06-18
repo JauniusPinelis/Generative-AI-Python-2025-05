@@ -1,0 +1,4 @@
+You have a working streamlit application in 
+samples\streamlit-demo\streamlit-openai.py
+
+Modify this chatbot to use Google AI Studio instead of OpenAI.

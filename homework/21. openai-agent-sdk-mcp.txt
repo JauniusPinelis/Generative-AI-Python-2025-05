@@ -1,3 +1,5 @@
+Advanced, Optional
+
 We are entering AI agents and MCP.
 
 Please create an agent using:
