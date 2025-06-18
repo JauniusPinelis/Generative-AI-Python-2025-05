@@ -204,6 +204,12 @@ some are more suited for translation.
   API Recap
   MCP Intro
 
+### Day 3:
+  Streamlit intro
+
+- OpenAI agents.
+
+
 
 
 
