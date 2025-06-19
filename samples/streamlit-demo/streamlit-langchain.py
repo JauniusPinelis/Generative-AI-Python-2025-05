@@ -35,13 +35,11 @@ docs = loader.load()
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=10)
 splits = text_splitter.split_documents(docs)
 
-
 vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings(
     model="text-embedding-3-small",
     base_url="https://models.inference.ai.azure.com",
     api_key=token, # type: ignore
 ))
-
 
 retriever = vectorstore.as_retriever()
 prompt = hub.pull("rlm/rag-prompt")
