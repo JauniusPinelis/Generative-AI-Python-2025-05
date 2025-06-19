@@ -205,9 +205,20 @@ some are more suited for translation.
   MCP Intro
 
 ### Day 3:
-  Streamlit intro
+  - Streamlit intro
 
-- OpenAI agents.
+### Day 4:
+  - AI agents.
+  - Open AI sdk agents
+
+
+
+To present
+- Uqlm
+- ragas
+- n8n
+- fine-tuning in depth
+
 
 
 
