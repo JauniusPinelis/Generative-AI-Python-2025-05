@@ -1,12 +1,9 @@
-from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import streamlit as st
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
-import faiss
 from langchain_core.vectorstores import InMemoryVectorStore
-from langchain_community.vectorstores import FAISS
 
 import os
 from langchain import hub
@@ -54,11 +51,6 @@ prompt = hub.pull("rlm/rag-prompt")
 def format_docs(docs):
     print(docs)
     return "\n\n".join(doc.page_content for doc in docs)
-
-
-
-("What is Convolutional Neural Networks?")
-
 
 st.title("Streamlit LangChain Demo")
 
