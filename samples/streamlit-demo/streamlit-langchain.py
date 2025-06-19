@@ -48,11 +48,6 @@ def format_docs(docs):
     print(docs)
     return "\n\n".join(doc.page_content for doc in docs)
 
-
-
-("What is Convolutional Neural Networks?")
-
-
 st.title("Streamlit LangChain Demo")
 
 def generate_response(input_text):
