@@ -57,8 +57,10 @@ st.title("Streamlit LangChain Demo")
 def generate_response(input_text):
     llm = ChatOpenAI(base_url=endpoint, temperature=0.7, api_key=token, model=model)
 
+    fetched_docs = vectorstore.search(input_text, search_type="similarity", k=3)
+
     rag_chain = (
-        {"context": retriever | format_docs, "question": RunnablePassthrough()}
+        {"context": format_docs(fetched_docs), "question": RunnablePassthrough()}
         | prompt
         | llm
         | StrOutputParser()
@@ -66,6 +68,11 @@ def generate_response(input_text):
     
     result = rag_chain.invoke(input_text)
     st.info(result)
+
+    st.subheader("📚 Sources")
+    for i, doc in enumerate(fetched_docs, 1):
+        with st.expander(f"Source {i}"):
+            st.write(f"**Content:** {doc.page_content}")
 
 with st.form("my_form"):
     text = st.text_area(
