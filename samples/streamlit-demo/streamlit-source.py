@@ -60,7 +60,7 @@ def generate_response(input_text):
     fetched_docs = vectorstore.search(input_text, search_type="similarity", k=3)
 
     rag_chain = (
-        {"context": format_docs(fetched_docs), "question": RunnablePassthrough()}
+        {"context": retriever | format_docs, "question": RunnablePassthrough()}
         | prompt
         | llm
         | StrOutputParser()
