@@ -211,6 +211,20 @@ some are more suited for translation.
   - AI agents.
   - Open AI sdk agents
 
+### Day 5:
+  - Practice in Python with Streamlit
+
+## **Week 7:
+
+## Day 1:
+  - Local models
+  - Using Ollama api
+  - Ollama with RAG, vision.
+
+## Day 2:
+  - LLM use cases
+  - Playwright MCP
+
 
 
 To present
@@ -218,6 +232,8 @@ To present
 - ragas
 - n8n
 - fine-tuning in depth
+
+- AWS vs Open-AI
 
 
 
