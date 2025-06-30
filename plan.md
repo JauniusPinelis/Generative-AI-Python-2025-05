@@ -225,15 +225,26 @@ some are more suited for translation.
   - LLM use cases
   - Playwright MCP
 
+## Day 3:
+  - Jonines
+
+## Day 4:
+  - n8n
+  - AWS vs Open-AI
+
+## Day 5:
+  - AI Agents recap and practice
+
 
 
 To present
+- https://github.com/KodySimpson/agents-sdk/tree/master/projects/deep_research
 - Uqlm
 - ragas
-- n8n
+
 - fine-tuning in depth
 
-- AWS vs Open-AI
+
 
 
 

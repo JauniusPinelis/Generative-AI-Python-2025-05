@@ -1,0 +1,13 @@
+This project is to showcase an a streamlit application which uses openai agent sdk and tool usage.
+
+Please create the following:
+    1. A separate Github repo for this project. (u can name it "web-search chatbot")
+    2. Create a working streamlit chatbot application which uses openai or github models platform.
+    3. Update the chatbot to use https://openai.github.io/openai-agents-python/ (it should use OpenAi agent).
+    4. Install duck-duck-go search tool and allow the Agent to use this tool.
+    5. The result should be a chatbot that is able to search for the information that it have context for.
+    (u need instruction to use the 'web-search' tool when LLM does not have the information)
+
+Feel free to use AI to implement this chatbot.
+some relevant code is in:
+samples\openai-agents\openai-agents-demo.py
