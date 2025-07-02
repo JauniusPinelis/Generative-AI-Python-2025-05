@@ -50,7 +50,7 @@ async def get_agent_response(messages: list[dict[str, str]]) -> str:
         async with MCPServerSse(
             name="Postgres MCP Server",
             params={
-                "url": "http://localhost:8000/sse",
+                "url": "http://localhost:8004/sse",
             },
         ) as mcp_server:
             # Create agent with web search tool and MCP server

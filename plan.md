@@ -235,6 +235,14 @@ some are more suited for translation.
 ## Day 5:
   - AI Agents recap and practice
 
+## **Week 8:
+
+## Day 1:
+  - Databases
+  - PostgreSQL
+  - Postgre MCP
+  - Postgre database chatbot
+
 
 
 To present

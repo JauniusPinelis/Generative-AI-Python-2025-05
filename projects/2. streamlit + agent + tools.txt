@@ -11,3 +11,6 @@ Please create the following:
 Feel free to use AI to implement this chatbot.
 some relevant code is in:
 samples\openai-agents\openai-agents-demo.py
+
+There is a working search chatbot implementation here:
+samples\sql\chatbot.py
