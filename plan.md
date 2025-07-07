@@ -243,6 +243,15 @@ some are more suited for translation.
   - Postgre MCP
   - Postgre database chatbot
 
+## Day 2 - 3:
+  - Recap
+
+## Day 4:
+  - Fine-tuning
+
+## Day 5:
+  - Outro
+
 
 
 To present

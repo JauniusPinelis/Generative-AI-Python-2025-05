@@ -1,0 +1,35 @@
+- Agentic Coding.
+- New GEN-AI opportunities.
+- Build and try new project and ideas.
+- building GEN-AI is interesting.
+- There are no gurus here.
+- in IT always improve yourself.
+
+1. Evaluation frameworks:
+https://docs.ragas.io/en/stable/
+https://github.com/cvs-health/uqlm
+2. Deeper understanding of LLMs
+https://www.youtube.com/@AndrejKarpathy/videos
+3. 
+AI assistant coding and Agentic coding:
+https://www.anthropic.com/engineering/claude-code-best-practices
+https://www.youtube.com/@RobShocks/videos
+4.
+Python programming
+https://www.youtube.com/@TechWithTim/videos
+https://www.youtube.com/@ArjanCodes/videos
+
+5. 
+Fine-tuning 
+https://docs.unsloth.ai/get-started/unsloth-notebooks
+
+6. Conferences:
+https://www.youtube.com/@aiDotEngineer/videos
+
+7. AI agents
+- https://www.langchain.com/langgraph
+- n8n 
+- MCP
+https://modelcontextprotocol.io/examples
+- Databases
+
